@@ -2,14 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Car : MonoBehaviour
+public class DebugSpawner : MonoBehaviour
 {
     void Start()
     {
-<<<<<<< HEAD
-        //Logic
-=======
-        Debug.Log("001");
->>>>>>> develop
+        //Sapwn logic
     }
 }
