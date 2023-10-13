@@ -6,10 +6,7 @@ public class Car : MonoBehaviour
 {
     void Start()
     {
-<<<<<<< HEAD
-        //Logic
-=======
         Debug.Log("001");
->>>>>>> develop
+        //test 1
     }
 }
